@@ -45,6 +45,18 @@ class Aviao(Veiculo):
         return 'O pai ta voando'
 
 
+class Caminhao(Veiculo):
+    def __init__(self, fabricante, modelo, capacidade):
+        self.__capacidade = capacidade
+        super().__init__(fabricante, modelo)
+
+    def movimentar(self):
+        return 'Sai da frnte que o caminhão ta passando'
+
+    def get_capacidade(self):
+        return self.__capacidade
+
+
 if __name__ == '__main__':
     meu_veiculo = Veiculo('Ford', 'Fusion')
     meu_veiculo.movimentar()
@@ -71,6 +83,12 @@ if __name__ == '__main__':
     print(meu_aviao.movimentar())
     print(meu_aviao.get_fbr_modelo())
     print('Tipo: ', meu_aviao.get_categoria())
+    print('=' * 20)
+
+    meu_caminhao = Caminhao('Volvo', 'A230', '50 Toneladas')
+    print(meu_caminhao.movimentar())
+    print('Capacidade: ', meu_caminhao.get_capacidade())
+
 
 
 
