@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de6c453f-1dd7-40e9-af35-f53ee503b949" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compreensão_de_lista.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/escopo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exceçoes_raise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exceções.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funçoesespeciais.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursividade.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,6 +211,7 @@
       <workItem from="1732629208512" duration="3666000" />
       <workItem from="1732712445932" duration="5667000" />
       <workItem from="1732801360719" duration="5772000" />
+      <workItem from="1732877351601" duration="536000" />
     </task>
     <servers />
   </component>
